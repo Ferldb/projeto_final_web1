@@ -1,0 +1,15 @@
+.caixa_login{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  font-family: 'Open Sans', sans-serif;
+  padding: 20px;
+  color: white;
+}
+
+body {
+      background-color: #343a40!important;
+}
+
+.sucesso{
+  margin: 30px;
+}

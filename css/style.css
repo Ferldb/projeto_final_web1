@@ -1,0 +1,67 @@
+
+.escolhas{
+font-family: sans-serif;
+font-weight: bold;
+color: white !important;
+font-size: 22px;
+}
+
+.principal{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.lateralbar{
+  height: 100% !important;
+  margin-top: 59px;
+  width: 300px;
+  padding-left: 0px;
+}
+
+#Post{
+  font-size: 14px;
+  font-family: 'Calistoga', cursive;
+  text-align: justify;
+  padding: 5px;
+}
+
+#Posts{
+  font-size: 50px;
+  font-weight: 900 !important;
+  font-family: 'Calistoga', cursive;
+}
+
+.lnav{
+  color: white;
+  font-size: 20px;
+}
+
+.main{
+  margin-left: 310px;
+  margin-top: 59px;
+  text-align: justify;
+}
+
+.post{
+    font-family: 'Calistoga', cursive;
+    font-weight: 900 !important;
+    text-align: justify;
+}
+
+#textbox{
+  border-radius: 10px;
+  border-width: medium;
+}
+
+.botao{
+  margin-top: 10px;
+}
+
+
+.textbox{
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 20px;
+  padding: 10px;
+}

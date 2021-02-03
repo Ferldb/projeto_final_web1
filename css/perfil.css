@@ -1,0 +1,17 @@
+
+.escolhas{
+font-family: sans-serif;
+font-weight: bold;
+color: white !important;
+font-size: 22px;
+}
+
+.principal{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.perfil{
+  margin-left: 90px !important;
+  margin-top: 80px !important;
+  width: 80%;
+}
